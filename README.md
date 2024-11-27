@@ -1,3 +1,3 @@
 # My-Browser
 
-I browser I made because I was bored
+My Browser is a browser that I made because I was bored
