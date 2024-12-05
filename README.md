@@ -7,4 +7,4 @@ If you want to build it yourself I would recommend editing the files in Visual S
 
 &nbsp;
 
-![my browser](https://gitea.30-seven.cc/Wesley/My-Browser/raw/branch/main/images/browser.png)
+![my browser](https://github.com/Wesley-Playz/My-Browser/blob/main/images/browser.png)
