@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="CefSharp.WinForms" Version="131.2.70" />
+    <PackageReference Include="CefSharp.WinForms" Version="134.3.90" />
     <PackageReference Include="ElectronNET.API" Version="23.6.2" />
     <PackageReference Include="Microsoft.Web.WebView2" Version="1.0.2903.40" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
